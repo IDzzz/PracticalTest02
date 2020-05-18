@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string-array name="vault_types">
+        <item>usd</item>
+        <item>eur</item>
+    </string-array>
+</resources>
